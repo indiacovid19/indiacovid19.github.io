@@ -1,0 +1,252 @@
+<noinclude>{{pp-template}}
+{{VEFriendly}}
+{{main|COVID-19 pandemic in India}}</noinclude>
+<templatestyles src="COVID-19_pandemic_data/styles.css" />
+<!-- Only use MoHFW as source to avoid inconsistency in trends, wait for MoHFW to reflect state government updates -->
+<div id="covid19-container-marker" style="display:none"><!--needed for mobile app--></div><div id="covid19-container">
+{| class="wikitable plainrowheaders sortable" style="text-align:right; font-size:85%; width:100px; margin:0px 0px 0em 0em;"
+! colspan="9" |<div class="covid-show-table">[[#covid19-container|[show all]]]</div>{{Navbar-collapsible|{{resize|90%|{{Nowrap|[[COVID-19 pandemic in India]] by state and union territory}}}}|COVID-19 pandemic data/India medical cases by state and union territory|plain=1}}
+|- class="covid-sticky"
+! scope="col" style="width:20em;" |State/Union Territory
+! scope="col" |Cases{{refn|group=lower-alpha|Inclusive of foreign nationals}}
+! scope="col" |Deaths
+! scope="col" |Recoveries
+! scope="col" |{{abbr|Active|Active cases}}
+|- class="sorttop"
+! style="text-align:center; padding: 0 2px;" |36 / 36
+! style="text-align:right; padding: 0 2px;" |12,686,049
+! style="text-align:right; padding: 0 2px;" |165,547
+! style="text-align:right; padding: 0 2px;" |11,732,279
+! style="text-align:right; padding: 0 2px;" |788,223
+|-
+! scope="row" |[[COVID-19 pandemic in the Andaman and Nicobar Islands|Andaman and Nicobar Islands]]
+|5,116
+|62
+|5,001
+|53
+|-
+! scope="row" |[[COVID-19 pandemic in Andhra Pradesh|Andhra Pradesh]]
+|909,002
+|7,244
+|891,048
+|10,710
+|-
+! scope="row" |[[COVID-19 pandemic in Arunachal Pradesh|Arunachal Pradesh]]
+|16,851
+|56
+|16,785
+|10
+|-
+! scope="row" |[[COVID-19 pandemic in Assam|Assam]]
+|218,740{{refn|group=lower-alpha|The [[Ministry of Health and Family Welfare|MoHFW]] data has included a case from [[Dimapur district]] of [[Nagaland]], a northeastern state of India, against the case count of [[Assam]]. It has been included since the patient was shifted in [[Gauhati Medical College and Hospital|GMCH]], Assam for treatment.<ref>{{cite news |title=Nagaland registers first COVID-19 case; patient undergoing treatment at hospital in Assam |url=https://www.republicworld.com/india-news/general-news/nagaland-registers-first-covid-19-case.html |access-date=2 May 2020 |work=[[Republic TV|Republic]] |date=12 April 2020 |language=en}}</ref> Here in the table the case figure is included against Assam as per MoHFW and not per the [[Government of Assam]]'s statistics.<ref>{{cite news |title=Covid-19 Advisory Assam |url=https://covid19.assam.gov.in/ |access-date={{TODAY}} |work=assam.gov.in |language=en}}</ref>}}
+|1,109
+|215,657
+|1,974
+|-
+! scope="row" |[[COVID-19 pandemic in Bihar|Bihar]]
+|269,312
+|1,586
+|263,582
+|4,144
+|-
+! scope="row" |[[COVID-19 pandemic in Chandigarh|Chandigarh]]
+|28,479
+|384
+|25,033
+|3,062
+|-
+! scope="row" |[[COVID-19 pandemic in Chhattisgarh|Chhattisgarh]]
+|376,348
+|4,363
+|327,689
+|44,296
+|-
+! scope="row" |[[COVID-19 pandemic in Dadra and Nagar Haveli and Daman and Diu|Dadra and Nagar Haveli and Daman and Diu]]
+|3,770
+|2
+|3,556
+|212
+|-
+! scope="row" |[[COVID-19 pandemic in Delhi|Delhi]]
+|679,962
+|11,096
+|654,277
+|14,589
+|-
+! scope="row" |[[COVID-19 pandemic in Goa|Goa]]
+|59,315
+|837
+|56,298
+|2,180
+|-
+! scope="row" |[[COVID-19 pandemic in Gujarat|Gujarat]]
+|321,598
+|4,581
+|300,765
+|16,252
+|-
+! scope="row" |[[COVID-19 pandemic in Haryana|Haryana]]
+|300,173
+|3,199
+|283,869
+|13,105
+|-
+! scope="row" |[[COVID-19 pandemic in Himachal Pradesh|Himachal Pradesh]]
+|65,809
+|1,076
+|60,905
+|3,828
+|-
+! scope="row" |[[COVID-19 pandemic in Jammu and Kashmir|Jammu and Kashmir]]
+|133,454
+|2,010
+|127,290
+|4,154
+|-
+! scope="row" |[[COVID-19 pandemic in Jharkhand|Jharkhand]]
+|128,332
+|1,140
+|121,310
+|5,882
+|-
+! scope="row" |[[COVID-19 pandemic in Karnataka|Karnataka]]
+|1,020,434
+|12,657
+|965,275
+|42,502
+|-
+! scope="row" |[[COVID-19 pandemic in Kerala|Kerala]]
+|1,137,590
+|4,680{{refn|group=lower-alpha|The MoHFW data has included a death from [[Mahé district]] of [[Puducherry (union territory)|Puducherry]], a union territory of India and which is surrounded by [[North Malabar]] region of [[Kerala]], against the death count of Kerala. It has been included since the patient died at Parayaram Medical College in [[Kannur]], Kerala.<ref>{{cite news |last1=Jacob |first1=Jeemon |title=Social activist from Puducherry becomes Kerala's third coronavirus casualty |url=https://www.indiatoday.in/amp/india/story/social-activist-from-puducherry-becomes-kerala-s-third-coronavirus-casualty-1665861-2020-04-11 |access-date=19 April 2020 |work=The India Today |date=11 April 2020}}</ref> Here in the table the death figure is included against Kerala as per MoHFW and not per the [[Government of Kerala]]’s statistics.<ref>{{cite news |title=Date wise report, Kerala Covid 19 battle |url=https://dashboard.kerala.gov.in/dailyreporting-view-public.php |access-date=19 April 2020 |work=The [[Government of Kerala]]}}</ref>}}
+|1,104,225
+|28,685
+|-
+! scope="row" |[[COVID-19 pandemic in Ladakh|Ladakh]]
+|10,303
+|130
+|9,810
+|363
+|-
+! scope="row" |[[COVID-19 pandemic in Lakshadweep|Lakshadweep]]
+|744
+|1
+|712
+|31
+|-
+! scope="row" |[[COVID-19 pandemic in Madhya Pradesh|Madhya Pradesh]]
+|310,249
+|4,055
+|283,540
+|22,654
+|-
+! scope="row" |[[COVID-19 pandemic in Maharashtra|Maharashtra]]
+|3,057,885
+|56,033
+|2,549,075
+|452,777
+|-
+! scope="row" |[[COVID-19 pandemic in Manipur|Manipur]]
+|29,428
+|374
+|28,997
+|57
+|-
+! scope="row" |[[COVID-19 pandemic in Meghalaya|Meghalaya]]
+|14,126
+|150
+|13,877
+|99
+|-
+! scope="row" |[[COVID-19 pandemic in Mizoram|Mizoram]]
+|4,500
+|11
+|4,444
+|45
+|-
+! scope="row" |[[COVID-19 pandemic in Nagaland|Nagaland]]
+|12,365
+|92
+|12,138
+|135
+|-
+! scope="row" |[[COVID-19 pandemic in Odisha|Odisha]]
+|343,268
+|1,922
+|338,150
+|3,196
+|-
+! scope="row" |[[COVID-19 pandemic in Puducherry|Puducherry]]
+|42,539
+|684
+|40,178
+|1,677
+|-
+! scope="row" |[[COVID-19 pandemic in Punjab, India|Punjab]]
+|254,152
+|7,155
+|221,578
+|25,419
+|-
+! scope="row" |[[COVID-19 pandemic in Rajasthan|Rajasthan]]
+|341,754
+|2,841
+|324,145
+|14,768
+|-
+! scope="row" |[[COVID-19 pandemic in Sikkim|Sikkim]]
+|6,263
+|136
+|6,071
+|56
+|-
+! scope="row" |[[COVID-19 pandemic in Tamil Nadu|Tamil Nadu]]
+|903,479
+|12,789
+|866,913
+|23,777
+|-
+! scope="row" |[[COVID-19 pandemic in Telangana|Telangana]]
+|314,735
+|1,729
+|303,013
+|9,993
+|-
+! scope="row" |[[COVID-19 pandemic in Tripura|Tripura]]
+|33,554
+|392
+|33,091
+|71
+|-
+! scope="row" |[[COVID-19 pandemic in Uttarakhand|Uttarakhand]]
+|102,811
+|1,729
+|97,881
+|3,201
+|-
+! scope="row" |[[COVID-19 pandemic in Uttar Pradesh|Uttar Pradesh]]
+|634,033
+|8,894
+|602,319
+|22,820
+|-
+! scope="row" |[[COVID-19 pandemic in West Bengal|West Bengal]]
+|595,576
+|10,348
+|573,782
+|11,446
+|- class="sortbottom" style="text-align:center;"
+| colspan="5" |<small>As of {{TODAY}}</small><ref>{{Cite web|url=https://www.mohfw.gov.in/|title=Home {{!}} Ministry of Health and Family Welfare {{!}} GOI|website=www.mohfw.gov.in|access-date={{TODAY}}}}</ref>
+|- class="sortbottom" style="text-align:left;"
+| colspan="5" |'''Notes'''{{reflist|group=lower-alpha}}
+|}</div>
+
+<noinclude>
+{{clear}}
+{{COVID-19 pandemic|state=expanded}}
+{{COVID-19 pandemic in India}}
+
+{{template reference list}}
+
+[[Category:COVID-19 pandemic in India templates]]
+[[Category:Templates that generate named references]]
+</noinclude>
